@@ -4,7 +4,7 @@ pip install joblib
 pip install uvicorn
 pip install scikit-learn
 
-Extrair arquivo app/models/music_geral.zip para o app/models/music_geral.alisson
+Gerar o modelo no diretorio /modelo. Ler o readme.md desse diretorio.
 
 cd ./app 
     python ./main_standalone.py
